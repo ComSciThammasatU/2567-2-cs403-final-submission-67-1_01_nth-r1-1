@@ -1,0 +1,27 @@
+.css-wrapper .header {
+  font-size: 1.5rem;
+  text-align: left;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 2%;
+  /* margin-bottom: 0.5%; */
+}
+
+.css-wrapper h2 {
+  color: rgb(255, 2, 179);
+}
+
+.css-wrapper body.loaded {
+  visibility: visible;
+  transition: visibility 0.3s ease-in-out;
+}
+
+.css-wrapper .container-lesson {
+  margin-right: 5rem;
+  margin-left: 5rem;
+}
+
+.css-wrapper hr {
+  border: 0.01rem solid #663399;
+} 
+
