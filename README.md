@@ -38,18 +38,20 @@ Manual / Instructions for your projects starts here !
 cd eFanimation
 npm install
 npm run start
+```
 เปิดเว็บที่: http://localhost:5173
----
+
 
 ### 3. รัน Backend
 
 ```bash
-cd ../e-fan-backend
+cd e-fan-backend
 npm install
 npm run start
+```
 Backend จะรันที่: http://localhost:3000
 
-หมายเหตุ
+**หมายเหตุ**
 ต้องเปิดทั้ง frontend และ backend พร้อมกัน
 
 frontend เชื่อมกับ backend ที่ http://localhost:3000
