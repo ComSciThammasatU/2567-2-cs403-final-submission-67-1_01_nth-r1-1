@@ -1,0 +1,9 @@
+การแนะนำการพัฒนาการแสดงผลระบบส่วนหน้า (frontend) ในเว็บไซต์เพื่อการแสดงผลอย่างมีประสิทธิภาพ
+Introduction to the development of frontend the web for efficiency
+ABSTRACT
+
+As a web developer, I’ve always been fascinated by creating engaging effects on websites using JavaScript. During the development of [https://palat2023.com](https://palat2023.com), I faced a frustrating challenge: the site would occasionally lag or feel unresponsive. This problem often stemmed from overly complex JavaScript code or inefficient handling of resources, which led to a poor user experience.  
+Determined to solve this, I dove into optimizing the website’s front-end performance. Along the way, I realized there’s a lack of practical, intermediate-level resources for developers like me who want to go beyond the basics and build smoother, faster websites.  
+This report shares my journey of tackling these issues, the lessons I learned, and the techniques I used to improve performance. It’s a hands-on guide for developers who want to enhance their skills and deliver seamless, enjoyable web experiences.
+
+Keywords: Frontend, Javascript Effect and Animation, CSS Effect and Animation
