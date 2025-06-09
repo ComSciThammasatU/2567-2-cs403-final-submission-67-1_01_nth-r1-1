@@ -51,6 +51,8 @@ npm run start
 ```
 Backend จะรันที่: http://localhost:3000
 
+---
+
 **หมายเหตุ**
 ต้องเปิดทั้ง frontend และ backend พร้อมกัน
 
