@@ -14,6 +14,44 @@
 
    
 Manual / Instructions for your projects starts here !
-# Topic 1
-# Topic 2 
-# Topic 3
+# ระบบ eFanimation (โปรเจกต์รายวิชา CS403)
+
+ระบบนี้แบ่งเป็น 2 ส่วน:  
+- **eFanimation** → ส่วนหน้า (Frontend) ใช้ React + Vite + TypeScript  
+- **e-fan-backend** → ส่วนหลัง (Backend) ใช้ NestJS
+
+---
+
+## วิธีติดตั้งและใช้งาน
+
+### 1. ติดตั้งโปรแกรมที่จำเป็น
+
+- Node.js (แนะนำเวอร์ชัน 16 ขึ้นไป) → https://nodejs.org/
+- VS Code (หรือ editor ที่ชอบ)
+- Git (หรือดาวน์โหลด zip มาแตกไฟล์ก็ได้)
+
+---
+
+### 2. รัน Frontend
+
+```bash
+cd eFanimation
+npm install
+npm run start
+เปิดเว็บที่: http://localhost:5173
+---
+
+### 3. รัน Backend
+
+```bash
+cd ../e-fan-backend
+npm install
+npm run start
+Backend จะรันที่: http://localhost:3000
+
+หมายเหตุ
+ต้องเปิดทั้ง frontend และ backend พร้อมกัน
+
+frontend เชื่อมกับ backend ที่ http://localhost:3000
+
+ระบบเชื่อมต่อฐานข้อมูล mongodb ใว้แล้ว
